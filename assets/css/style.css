@@ -1,0 +1,48 @@
+body{
+
+}
+
+.cart-icon{
+    font-size: 22px;
+}
+
+.badge-font{
+    font-size: 9px;
+}
+
+.card-text{
+    font-size: 12px !important;
+}
+
+.incele{
+    font-size: 12px;
+}
+
+.sepete-ekle{
+    font-size: 12px;
+}
+
+.urun-adeti{
+    width: 24% !important;
+    text-align: center;
+    height: 28px;
+    border-radius: 4px;
+}
+
+.sepet-yukarı-ok{
+    font-size: 27px;
+}
+
+.tablo-baslik{
+    background: #ececec;
+}
+
+.table{
+    box-shadow:0 0 8px rgba(5,5,5,.3) ;
+}
+
+.sepettenCikar{
+    font-size: 24px;
+    border: none;
+    background: none;
+}
